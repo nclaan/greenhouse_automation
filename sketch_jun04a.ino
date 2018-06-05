@@ -37,7 +37,7 @@ void loop(){
         previousMillis2 = currentMillis2;
         Serial.print( previousMillis2);
         digitalWrite(ledPin, HIGH); //Turn off the pump even tought ledPin is high
-        int turn_on_or_off_relay=0; // starts the turn on pump loop
+        int turn_on_or_off_relay=0; // starts the turn on pump loop!
       
     }
   }
