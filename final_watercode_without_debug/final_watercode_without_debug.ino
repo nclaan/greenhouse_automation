@@ -1,6 +1,6 @@
 #include <SimpleTimer.h>
 
-const int pumpPin = 14; //pin 14 aka d4
+const int pumpPin = 14; //pin 14 aka d5
 // the timer object
 SimpleTimer timer;
 
